@@ -1,2 +1,2 @@
 # Homero-I7
-Poema colectivo 
+Experimento de poema colectivo a partir de un fragmento del canto 1 de la odisea
